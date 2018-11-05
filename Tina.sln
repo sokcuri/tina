@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tina", "Tina\Tina.csproj", "{20B3AA84-9CA7-43E5-B0CD-8DBA5091DF92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinaHook", "TinaHook\TinaHook.csproj", "{73B2C22B-C020-45B7-BF61-B48F49A2693F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B3AA84-9CA7-43E5-B0CD-8DBA5091DF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B3AA84-9CA7-43E5-B0CD-8DBA5091DF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B3AA84-9CA7-43E5-B0CD-8DBA5091DF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B3AA84-9CA7-43E5-B0CD-8DBA5091DF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B2C22B-C020-45B7-BF61-B48F49A2693F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B2C22B-C020-45B7-BF61-B48F49A2693F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B2C22B-C020-45B7-BF61-B48F49A2693F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B2C22B-C020-45B7-BF61-B48F49A2693F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E6852F-EC3E-4318-8F04-5F53791B5E85}
+	EndGlobalSection
+EndGlobal
