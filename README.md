@@ -17,9 +17,9 @@ This project is licensed under the terms of the MIT license.
 
 ## Usage
 ```bash
-Expected usage: Tina Watch <options>
+Usage: Tina Watch <options>
 <options> available:
   -f, --file=VALUE           The full path of the file to run.
   -w, --watch=VALUE          Specifies the file to watch for output to the
                                console.
-```z
+```
